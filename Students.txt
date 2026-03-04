@@ -1,0 +1,11 @@
+Name        Surname    HW1   HW2   HW3   HW4   HW5   Exam
+Antanas     Kazlauskas   8     9    10     6    10      9
+Daina       Stankeviciene 7   10     8     5     4      6
+Egle        Zdaneviciute  9    8     7    10     6      8
+Inga        Bernotas      5    6     7     8     9      7
+Jonas       Jonaitis      6    7     8     9    10      9
+Juozas      Lukosius      4    5     6     7     8      5
+Laura       Paulauskas    9   10     9     8     7      9
+Mindaugas   Petraitis     7    8     6     5     9      7
+Petras      Jankauskas    8    7     9    10     6      8
+Ruta        Urbonas       6    8     7     9     5      6
